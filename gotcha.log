@@ -1,0 +1,258 @@
+<129>Jan  1 18:36:03 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=1c:87:2c:b6:ef:de addr3=ff:ff:ff:ff:ff:ff len=158
+<129>Jan  1 18:36:03 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=1c:87:2c:b6:ef:de addr3=ff:ff:ff:ff:ff:ff len=158
+<129>Jan  1 18:36:04 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=00:06:c7:02:b6:c5 addr3=ff:ff:ff:ff:ff:ff len=44
+<129>Jan  1 18:36:04 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=00:06:c7:02:b6:c5 addr3=ff:ff:ff:ff:ff:ff len=36
+<129>Jan  1 18:36:04 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=00:06:c7:02:b6:c5 addr3=ff:ff:ff:ff:ff:ff len=44
+<129>Jan  1 18:36:04 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=00:06:c7:02:b6:8c addr3=ff:ff:ff:ff:ff:ff len=44
+<129>Jan  1 18:36:04 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=00:06:c7:02:b6:c5 addr3=ff:ff:ff:ff:ff:ff len=36
+<129>Jan  1 18:36:04 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=00:06:c7:02:b6:8c addr3=ff:ff:ff:ff:ff:ff len=36
+<129>Jan  1 18:36:04 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=00:06:c7:02:b6:8c addr3=ff:ff:ff:ff:ff:ff len=44
+<129>Jan  1 18:36:04 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=00:06:c7:02:b6:8c addr3=ff:ff:ff:ff:ff:ff len=36
+<129>Jan  1 18:36:07 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=00:06:c7:02:b6:c5 addr3=ff:ff:ff:ff:ff:ff len=44
+<129>Jan  1 18:36:07 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=00:06:c7:02:b6:c5 addr3=ff:ff:ff:ff:ff:ff len=36
+<129>Jan  1 18:36:07 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=00:06:c7:02:b6:c5 addr3=ff:ff:ff:ff:ff:ff len=44
+<129>Jan  1 18:36:07 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=00:06:c7:02:b6:c5 addr3=ff:ff:ff:ff:ff:ff len=36
+<129>Jan  1 18:36:07 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=00:06:c7:02:b6:8c addr3=ff:ff:ff:ff:ff:ff len=44
+<129>Jan  1 18:36:07 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=00:06:c7:02:b6:8c addr3=ff:ff:ff:ff:ff:ff len=36
+<129>Jan  1 18:36:07 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=00:06:c7:02:b6:8c addr3=ff:ff:ff:ff:ff:ff len=44
+<129>Jan  1 18:36:07 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=00:06:c7:02:b6:8c addr3=ff:ff:ff:ff:ff:ff len=36
+<129>Jan  1 18:36:09 APWID[2974]: ALERT! WLAN attack detected. TYPE = 0 NAME = BCASTPROBE APMAC = ff:ff:ff:ff:ff:ff ATTACKERMAC = 00:06:c7:02:b6:8c count = 25
+<129>Jan  1 18:36:09 APWID[2974]: ALERT! WLAN attack detected. TYPE = 0 NAME = BCASTPROBE APMAC = ff:ff:ff:ff:ff:ff ATTACKERMAC = 00:06:c7:02:b6:c5 count = 18
+<129>Jan  1 18:36:09 APWID[2974]: ALERT! WLAN attack detected. TYPE = 0 NAME = BCASTPROBE APMAC = ff:ff:ff:ff:ff:ff ATTACKERMAC = d0:7e:35:a4:b6:0e count = 6
+<129>Jan  1 18:36:09 APWID[2974]: Clearing data...
+<129>Jan  1 18:36:09 APWID[2974]: Switching to channel 149
+<129>Jan  1 18:36:18 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=00:06:c7:02:b6:c5 addr3=ff:ff:ff:ff:ff:ff len=44
+<129>Jan  1 18:36:18 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=00:06:c7:02:b6:c5 addr3=ff:ff:ff:ff:ff:ff len=44
+<129>Jan  1 18:36:18 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=00:06:c7:02:b6:c5 addr3=ff:ff:ff:ff:ff:ff len=36
+<129>Jan  1 18:36:18 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=00:06:c7:02:b6:8c addr3=ff:ff:ff:ff:ff:ff len=36
+<129>Jan  1 18:36:18 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=00:06:c7:02:b6:c5 addr3=ff:ff:ff:ff:ff:ff len=44
+<129>Jan  1 18:36:18 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=00:06:c7:02:b6:c5 addr3=ff:ff:ff:ff:ff:ff len=36
+<129>Jan  1 18:36:18 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=00:06:c7:02:b6:c5 addr3=ff:ff:ff:ff:ff:ff len=36
+<129>Jan  1 18:36:22 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=00:06:c7:02:b6:8c addr3=ff:ff:ff:ff:ff:ff len=44
+<129>Jan  1 18:36:39 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=d0:7e:35:a4:b6:0e addr3=ff:ff:ff:ff:ff:ff len=82
+<129>Jan  1 18:36:39 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=d0:7e:35:a4:b6:0e addr3=ff:ff:ff:ff:ff:ff len=96
+<129>Jan  1 18:36:39 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=d0:7e:35:a4:b6:0e addr3=ff:ff:ff:ff:ff:ff len=82
+<129>Jan  1 18:36:40 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=00:06:c7:02:b6:c5 addr3=ff:ff:ff:ff:ff:ff len=36
+<129>Jan  1 18:36:40 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=00:06:c7:02:b6:c5 addr3=ff:ff:ff:ff:ff:ff len=44
+<129>Jan  1 18:36:40 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=00:06:c7:02:b6:8c addr3=ff:ff:ff:ff:ff:ff len=44
+<129>Jan  1 18:36:40 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=00:06:c7:02:b6:8c addr3=ff:ff:ff:ff:ff:ff len=36
+<129>Jan  1 18:36:40 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=00:06:c7:02:b6:8c addr3=ff:ff:ff:ff:ff:ff len=44
+<129>Jan  1 18:36:40 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=d0:7e:35:a4:b6:0e addr3=ff:ff:ff:ff:ff:ff len=82
+<129>Jan  1 18:36:40 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=d0:7e:35:a4:b6:0e addr3=ff:ff:ff:ff:ff:ff len=96
+<129>Jan  1 18:36:40 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=d0:7e:35:a4:b6:0e addr3=ff:ff:ff:ff:ff:ff len=82
+<129>Jan  1 18:36:40 APADVDETECTOR[3203]: Scan completed in [92.00] seconds with [33] results..
+<129>Jan  1 18:36:40 APADVDETECTOR[3203]: Scan Result [33]
+<129>Jan  1 18:36:40 APADVDETECTOR[3203]: ======================================================================================
+<129>Jan  1 18:36:40 APADVDETECTOR[3203]: [INV] [D8:C7:C8:A3:2F:D9] [                WBL ] [   5260 MHz (Channel 52) ] [ -71 dBm ] [ 100 ] [ 19 ]
+<129>Jan  1 18:36:40 APADVDETECTOR[3203]: [INV] [D8:C7:C8:A3:2F:DA] [                    ] [   5260 MHz (Channel 52) ] [ -72 dBm ] [ 100 ] [ 19 ]
+<129>Jan  1 18:36:40 APADVDETECTOR[3203]: [INV] [D8:C7:C8:A3:2F:59] [                WBL ] [   5260 MHz (Channel 52) ] [ -78 dBm ] [ 100 ] [ 17 ]
+<129>Jan  1 18:36:40 APADVDETECTOR[3203]: [INV] [D8:C7:C8:A3:2F:5A] [                    ] [   5260 MHz (Channel 52) ] [ -78 dBm ] [ 100 ] [ 18 ]
+<129>Jan  1 18:36:40 APADVDETECTOR[3203]: [INV] [D8:C7:C8:A3:28:29] [                WBL ] [   5260 MHz (Channel 52) ] [ -85 dBm ] [ 100 ] [ 17 ]
+<129>Jan  1 18:36:40 APADVDETECTOR[3203]: [INV] [04:F0:21:36:E5:4F] [      STRESS_TEST_2 ] [   5280 MHz (Channel 56) ] [ -59 dBm ] [ 100 ] [ 19 ]
+<129>Jan  1 18:36:40 APADVDETECTOR[3203]: [INV] [04:F0:21:10:16:FD] [ POWER_CONSUMPTION_TEST_1 ] [   5280 MHz (Channel 56) ] [ -33 dBm ] [ 100 ] [ 19 ]
+<129>Jan  1 18:36:40 APADVDETECTOR[3203]: [INV] [D8:C7:C8:A4:1C:C9] [                WBL ] [   5300 MHz (Channel 60) ] [ -85 dBm ] [ 100 ] [ 19 ]
+<129>Jan  1 18:36:40 APADVDETECTOR[3203]: [INV] [04:F0:21:33:60:51] [      STRESS_TEST_1 ] [   5300 MHz (Channel 60) ] [ -63 dBm ] [ 100 ] [ 19 ]
+<129>Jan  1 18:36:40 APADVDETECTOR[3203]: [INV] [A8:BD:27:2D:C7:B0] [                    ] [   5320 MHz (Channel 64) ] [ -89 dBm ] [ 100 ] [ 19 ]
+<129>Jan  1 18:36:40 APADVDETECTOR[3203]: [INV] [88:41:FC:D6:4B:61] [   AirTies4920_7444 ] [   5180 MHz (Channel 36) ] [ -86 dBm ] [ 100 ] [ 16 ]
+<129>Jan  1 18:36:40 APADVDETECTOR[3203]: [INV] [D8:C7:C8:A4:1C:99] [                WBL ] [   5180 MHz (Channel 36) ] [ -87 dBm ] [ 100 ] [ 19 ]
+<129>Jan  1 18:36:40 APADVDETECTOR[3203]: [INV] [D8:C7:C8:A4:1B:28] [          WBL_GUEST ] [   5200 MHz (Channel 40) ] [ -86 dBm ] [ 100 ] [ 3 ]
+<129>Jan  1 18:36:40 APADVDETECTOR[3203]: [INV] [00:06:C7:02:A9:5E] [     wireless_vap_1 ] [  5785 MHz (Channel 157) ] [ -89 dBm ] [ 100 ] [ 19 ]
+<129>Jan  1 18:36:40 APADVDETECTOR[3203]: [INV] [EC:E5:55:C7:44:44] [           WLC_TEST ] [  5500 MHz (Channel 100) ] [ -56 dBm ] [ 100 ] [ 19 ]
+<129>Jan  1 18:36:41 APADVDETECTOR[3203]: [INV] [A8:BD:27:97:E2:91] [                    ] [  5500 MHz (Channel 100) ] [ -87 dBm ] [ 100 ] [ 16 ]
+<129>Jan  1 18:36:41 APADVDETECTOR[3203]: ======================================================================================
+<129>Jan  1 18:36:41 APADVDETECTOR[3203]: Challenging mac=[EC:E5:55:FF:E4:35] ssid=[WLC_TEST4] freq=[5745 MHz (Channel 149)] secflag=[0x2221] secpol=[WPA_VALID]
+<129>Jan  1 18:36:48 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=00:06:c7:02:ba:d9 addr3=ff:ff:ff:ff:ff:ff len=87
+<129>Jan  1 18:36:48 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=00:06:c7:02:ba:d9 addr3=ff:ff:ff:ff:ff:ff len=78
+<129>Jan  1 18:36:48 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=00:06:c7:02:ba:d9 addr3=ff:ff:ff:ff:ff:ff len=87
+<129>Jan  1 18:36:48 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=00:06:c7:02:ba:d9 addr3=ff:ff:ff:ff:ff:ff len=78
+<129>Jan  1 18:36:50 WPA_SUPPLICANT[853]: Client [ec:e5:55:ff:e4:35] WPA authentication completed.
+<129>Jan  1 18:36:51 WPA_SUPPLICANT[853]: Client [ec:e5:55:ff:e4:35] disconnected. Reason [3].
+<129>Jan  1 18:36:51 WPA_SUPPLICANT[853]: Client [00:00:00:00:00:00] disconnected. Reason [0].
+<129>Jan  1 18:36:52 APADVDETECTOR[3203]: VALID mac=[EC:E5:55:FF:E4:35] ssid=[WLC_TEST4] freq=[5745 MHz (Channel 149)] secpol=[WPA_VALID]
+<129>Jan  1 18:37:09 APWID[2974]: ALERT! WLAN attack detected. TYPE = 0 NAME = BCASTPROBE APMAC = ff:ff:ff:ff:ff:ff ATTACKERMAC = 00:06:c7:02:b6:c5 count = 8
+<129>Jan  1 18:37:09 APWID[2974]: ALERT! WLAN attack detected. TYPE = 0 NAME = BCASTPROBE APMAC = ff:ff:ff:ff:ff:ff ATTACKERMAC = 00:06:c7:02:b6:8c count = 5
+<129>Jan  1 18:37:09 APWID[2974]: ALERT! WLAN attack detected. TYPE = 0 NAME = BCASTPROBE APMAC = ff:ff:ff:ff:ff:ff ATTACKERMAC = d0:7e:35:a4:b6:0e count = 6
+<129>Jan  1 18:37:09 APWID[2974]: Clearing data...
+<129>Jan  1 18:37:09 APWID[2974]: Switching to channel 149
+<129>Jan  1 18:37:24 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=70:77:81:10:f0:db addr3=ff:ff:ff:ff:ff:ff len=53
+<129>Jan  1 18:37:24 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=70:77:81:10:f0:db addr3=ff:ff:ff:ff:ff:ff len=53
+<129>Jan  1 18:37:24 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=70:77:81:10:f0:db addr3=ff:ff:ff:ff:ff:ff len=53
+<129>Jan  1 18:37:26 APADVDETECTOR[3203]: Starting spectral scan (timeout = 26).
+<129>Jan  1 18:37:35 APSPECTRAL[1126]: Starting spectral scanning.
+<129>Jan  1 18:37:35 APSPECTRAL[1126]: interface   : 
+<129>Jan  1 18:37:35 APSPECTRAL[1126]: device      : 
+<129>Jan  1 18:37:35 APSPECTRAL[1126]: WIFI Detect : 1
+<129>Jan  1 18:37:35 APSPECTRAL[1126]: CW Detect   : 1
+<129>Jan  1 18:37:35 APSPECTRAL[1126]: MWO Detect  : 1
+<129>Jan  1 18:37:35 APSPECTRAL[1126]: FHSS Detect : 1
+<129>Jan  1 18:37:35 APSPECTRAL[1126]: Load MAX    : 100
+<129>Jan  1 18:37:35 APSPECTRAL[1126]: Load MEDIUM : 80
+<129>Jan  1 18:37:35 APSPECTRAL[1126]: Chan Count  : 2
+<129>Jan  1 18:37:35 APSPECTRAL[1126]: [  0] chan : 44
+<129>Jan  1 18:37:35 APSPECTRAL[1126]: Switching to new channel = 44
+<129>Jan  1 18:37:38 APSPECTRAL[1126]: SUMMARY: channel = 44
+<129>Jan  1 18:37:38 APSPECTRAL[1126]:     CW Detected   = 0
+<129>Jan  1 18:37:38 APSPECTRAL[1126]:     FHSS Detected = 0
+<129>Jan  1 18:37:38 APSPECTRAL[1126]:     WIFI Detected = 0
+<129>Jan  1 18:37:38 APSPECTRAL[1126]:     MWO Detected  = 0
+<129>Jan  1 18:37:38 APSPECTRAL[1126]:     Channel Load  = 0
+<129>Jan  1 18:37:38 APSPECTRAL[1126]: Switching to new channel = 149
+<129>Jan  1 18:37:42 APSPECTRAL[1126]: SUMMARY: channel = 149
+<129>Jan  1 18:37:42 APSPECTRAL[1126]:     CW Detected   = 0
+<129>Jan  1 18:37:42 APSPECTRAL[1126]:     FHSS Detected = 0
+<129>Jan  1 18:37:42 APSPECTRAL[1126]:     WIFI Detected = 16
+<129>Jan  1 18:37:42 APSPECTRAL[1126]:     MWO Detected  = 0
+<129>Jan  1 18:37:42 APSPECTRAL[1126]:     Channel Load  = 16
+<129>Jan  1 18:37:42 APSPECTRAL[1126]: WARNING! WIFI Interference detected at channel 149 ( 5745MHz ) ( RSSI 37 NF -89 LOAD 16 )
+<129>Jan  1 18:37:46 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=d0:7e:35:a4:b6:0e addr3=ff:ff:ff:ff:ff:ff len=82
+<129>Jan  1 18:37:46 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=d0:7e:35:a4:b6:0e addr3=ff:ff:ff:ff:ff:ff len=96
+<129>Jan  1 18:37:46 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=d0:7e:35:a4:b6:0e addr3=ff:ff:ff:ff:ff:ff len=82
+<129>Jan  1 18:37:47 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=d0:7e:35:a4:b6:0e addr3=ff:ff:ff:ff:ff:ff len=82
+<129>Jan  1 18:37:47 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=d0:7e:35:a4:b6:0e addr3=ff:ff:ff:ff:ff:ff len=96
+<129>Jan  1 18:37:47 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=d0:7e:35:a4:b6:0e addr3=ff:ff:ff:ff:ff:ff len=82
+<129>Jan  1 18:38:02 APADVDETECTOR[3203]: Spectral scan completed.
+<129>Jan  1 18:38:06 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=00:06:c7:02:b6:c5 addr3=ff:ff:ff:ff:ff:ff len=44
+<129>Jan  1 18:38:06 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=00:06:c7:02:b6:c5 addr3=ff:ff:ff:ff:ff:ff len=36
+<129>Jan  1 18:38:07 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=00:06:c7:02:b6:c5 addr3=ff:ff:ff:ff:ff:ff len=44
+<129>Jan  1 18:38:07 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=00:06:c7:02:ba:d9 addr3=ff:ff:ff:ff:ff:ff len=87
+<129>Jan  1 18:38:07 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=00:06:c7:02:ba:d9 addr3=ff:ff:ff:ff:ff:ff len=78
+<129>Jan  1 18:38:07 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=00:06:c7:02:ba:d9 addr3=ff:ff:ff:ff:ff:ff len=87
+<129>Jan  1 18:38:07 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=00:06:c7:02:ba:d9 addr3=ff:ff:ff:ff:ff:ff len=78
+<129>Jan  1 18:38:09 APWID[2974]: ALERT! WLAN attack detected. TYPE = 0 NAME = BCASTPROBE APMAC = ff:ff:ff:ff:ff:ff ATTACKERMAC = d0:7e:35:a4:b6:0e count = 6
+<129>Jan  1 18:38:09 APWID[2974]: Clearing data...
+<129>Jan  1 18:38:09 APWID[2974]: Switching to channel 149
+<129>Jan  1 18:38:09 WPA_SUPPLICANT[1220]: Client [ec:e5:55:ff:e4:35] disconnected. Reason [3].
+<129>Jan  1 18:38:09 WPA_SUPPLICANT[1220]: Client [00:00:00:00:00:00] disconnected. Reason [0].
+<129>Jan  1 18:38:13 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=00:06:c7:02:b6:8c addr3=ff:ff:ff:ff:ff:ff len=44
+<129>Jan  1 18:38:13 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=00:06:c7:02:b6:8c addr3=ff:ff:ff:ff:ff:ff len=36
+<129>Jan  1 18:38:16 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=00:06:c7:02:b6:c5 addr3=ff:ff:ff:ff:ff:ff len=44
+<129>Jan  1 18:38:16 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=00:06:c7:02:b6:c5 addr3=ff:ff:ff:ff:ff:ff len=36
+<129>Jan  1 18:38:16 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=00:06:c7:02:b6:c5 addr3=ff:ff:ff:ff:ff:ff len=44
+<129>Jan  1 18:38:16 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=00:06:c7:02:b6:8c addr3=ff:ff:ff:ff:ff:ff len=44
+<129>Jan  1 18:38:16 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=00:06:c7:02:b6:8c addr3=ff:ff:ff:ff:ff:ff len=36
+<129>Jan  1 18:38:16 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=00:06:c7:02:b6:8c addr3=ff:ff:ff:ff:ff:ff len=44
+<129>Jan  1 18:38:16 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=00:06:c7:02:b6:8c addr3=ff:ff:ff:ff:ff:ff len=36
+<129>Jan  1 18:38:16 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=04:f0:21:0a:5d:7f addr3=ff:ff:ff:ff:ff:ff len=71
+<129>Jan  1 18:38:16 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=04:f0:21:0a:5d:7f addr3=ff:ff:ff:ff:ff:ff len=64
+<129>Jan  1 18:38:19 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=00:06:c7:02:b6:c5 addr3=ff:ff:ff:ff:ff:ff len=44
+<129>Jan  1 18:38:19 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=00:06:c7:02:b6:c5 addr3=ff:ff:ff:ff:ff:ff len=36
+<129>Jan  1 18:38:19 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=00:06:c7:02:b6:c5 addr3=ff:ff:ff:ff:ff:ff len=44
+<129>Jan  1 18:38:19 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=00:06:c7:02:b6:c5 addr3=ff:ff:ff:ff:ff:ff len=36
+<129>Jan  1 18:38:19 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=00:06:c7:02:b6:8c addr3=ff:ff:ff:ff:ff:ff len=44
+<129>Jan  1 18:38:19 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=00:06:c7:02:b6:8c addr3=ff:ff:ff:ff:ff:ff len=36
+<129>Jan  1 18:38:19 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=00:06:c7:02:b6:8c addr3=ff:ff:ff:ff:ff:ff len=44
+<129>Jan  1 18:38:19 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=00:06:c7:02:b6:8c addr3=ff:ff:ff:ff:ff:ff len=36
+<129>Jan  1 18:38:23 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=00:06:c7:02:b6:c5 addr3=ff:ff:ff:ff:ff:ff len=44
+<129>Jan  1 18:38:23 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=00:06:c7:02:b6:c5 addr3=ff:ff:ff:ff:ff:ff len=36
+<129>Jan  1 18:38:23 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=00:06:c7:02:b6:c5 addr3=ff:ff:ff:ff:ff:ff len=44
+<129>Jan  1 18:38:23 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=00:06:c7:02:b6:c5 addr3=ff:ff:ff:ff:ff:ff len=36
+<129>Jan  1 18:38:23 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=00:06:c7:02:b6:8c addr3=ff:ff:ff:ff:ff:ff len=44
+<129>Jan  1 18:38:23 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=00:06:c7:02:b6:8c addr3=ff:ff:ff:ff:ff:ff len=36
+<129>Jan  1 18:38:23 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=00:06:c7:02:b6:8c addr3=ff:ff:ff:ff:ff:ff len=44
+<129>Jan  1 18:38:23 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=00:06:c7:02:b6:8c addr3=ff:ff:ff:ff:ff:ff len=36
+<129>Jan  1 18:38:26 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=00:06:c7:02:b6:c5 addr3=ff:ff:ff:ff:ff:ff len=44
+<129>Jan  1 18:38:26 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=00:06:c7:02:b6:c5 addr3=ff:ff:ff:ff:ff:ff len=36
+<129>Jan  1 18:38:26 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=00:06:c7:02:b6:c5 addr3=ff:ff:ff:ff:ff:ff len=44
+<129>Jan  1 18:38:26 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=00:06:c7:02:b6:c5 addr3=ff:ff:ff:ff:ff:ff len=36
+<129>Jan  1 18:38:26 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=00:06:c7:02:b6:8c addr3=ff:ff:ff:ff:ff:ff len=44
+<129>Jan  1 18:38:26 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=00:06:c7:02:b6:8c addr3=ff:ff:ff:ff:ff:ff len=36
+<129>Jan  1 18:38:27 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=00:06:c7:02:b6:8c addr3=ff:ff:ff:ff:ff:ff len=44
+<129>Jan  1 18:38:27 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=00:06:c7:02:b6:8c addr3=ff:ff:ff:ff:ff:ff len=36
+<129>Jan  1 18:38:37 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=00:06:c7:02:b6:c5 addr3=ff:ff:ff:ff:ff:ff len=44
+<129>Jan  1 18:38:37 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=00:06:c7:02:b6:c5 addr3=ff:ff:ff:ff:ff:ff len=36
+<129>Jan  1 18:38:37 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=00:06:c7:02:b6:c5 addr3=ff:ff:ff:ff:ff:ff len=44
+<129>Jan  1 18:38:37 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=00:06:c7:02:b6:c5 addr3=ff:ff:ff:ff:ff:ff len=36
+<129>Jan  1 18:38:37 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=00:06:c7:02:b6:8c addr3=ff:ff:ff:ff:ff:ff len=44
+<129>Jan  1 18:38:54 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=d0:7e:35:a4:b6:0e addr3=ff:ff:ff:ff:ff:ff len=82
+<129>Jan  1 18:38:54 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=d0:7e:35:a4:b6:0e addr3=ff:ff:ff:ff:ff:ff len=96
+<129>Jan  1 18:38:54 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=d0:7e:35:a4:b6:0e addr3=ff:ff:ff:ff:ff:ff len=82
+<129>Jan  1 18:38:55 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=d0:7e:35:a4:b6:0e addr3=ff:ff:ff:ff:ff:ff len=82
+<129>Jan  1 18:38:55 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=d0:7e:35:a4:b6:0e addr3=ff:ff:ff:ff:ff:ff len=96
+<129>Jan  1 18:38:55 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=d0:7e:35:a4:b6:0e addr3=ff:ff:ff:ff:ff:ff len=82
+<129>Jan  1 18:38:58 APADVDETECTOR[3203]: Scan completed in [92.00] seconds with [27] results..
+<129>Jan  1 18:38:58 APADVDETECTOR[3203]: Scan Result [27]
+<129>Jan  1 18:38:58 APADVDETECTOR[3203]: ======================================================================================
+<129>Jan  1 18:38:58 APADVDETECTOR[3203]: [INV] [D8:C7:C8:A3:2F:59] [                WBL ] [   5260 MHz (Channel 52) ] [ -78 dBm ] [ 100 ] [ 19 ]
+<129>Jan  1 18:38:58 APADVDETECTOR[3203]: [INV] [D8:C7:C8:A3:2F:5A] [                    ] [   5260 MHz (Channel 52) ] [ -78 dBm ] [ 100 ] [ 19 ]
+<129>Jan  1 18:38:58 APADVDETECTOR[3203]: [INV] [D8:C7:C8:A3:28:29] [                WBL ] [   5260 MHz (Channel 52) ] [ -85 dBm ] [ 100 ] [ 19 ]
+<129>Jan  1 18:38:58 APADVDETECTOR[3203]: [INV] [D8:C7:C8:A3:2F:D9] [                WBL ] [   5260 MHz (Channel 52) ] [ -72 dBm ] [ 100 ] [ 19 ]
+<129>Jan  1 18:38:58 APADVDETECTOR[3203]: [INV] [D8:C7:C8:A3:2F:DA] [                    ] [   5260 MHz (Channel 52) ] [ -72 dBm ] [ 100 ] [ 18 ]
+<129>Jan  1 18:38:58 APADVDETECTOR[3203]: [INV] [04:F0:21:36:E5:4F] [      STRESS_TEST_2 ] [   5280 MHz (Channel 56) ] [ -59 dBm ] [ 100 ] [ 19 ]
+<129>Jan  1 18:38:58 APADVDETECTOR[3203]: [INV] [04:F0:21:10:16:FD] [ POWER_CONSUMPTION_TEST_1 ] [   5280 MHz (Channel 56) ] [ -33 dBm ] [ 100 ] [ 18 ]
+<129>Jan  1 18:38:58 APADVDETECTOR[3203]: [INV] [D8:C7:C8:A4:1C:C9] [                WBL ] [   5300 MHz (Channel 60) ] [ -85 dBm ] [ 100 ] [ 19 ]
+<129>Jan  1 18:38:58 APADVDETECTOR[3203]: [INV] [04:F0:21:33:60:51] [      STRESS_TEST_1 ] [   5300 MHz (Channel 60) ] [ -63 dBm ] [ 100 ] [ 18 ]
+<129>Jan  1 18:38:58 APADVDETECTOR[3203]: [INV] [A8:BD:27:2D:C7:B0] [                    ] [   5320 MHz (Channel 64) ] [ -89 dBm ] [ 100 ] [ 18 ]
+<129>Jan  1 18:38:58 APADVDETECTOR[3203]: [INV] [04:F0:21:14:9F:76] [     RFNet_WiFi5GAC ] [   5180 MHz (Channel 36) ] [ -72 dBm ] [ 100 ] [ 18 ]
+<129>Jan  1 18:38:58 APADVDETECTOR[3203]: [INV] [04:F0:21:1A:7B:31] [ RFNet_WiFi5GAC_Front ] [   5180 MHz (Channel 36) ] [ -87 dBm ] [ 100 ] [ 4 ]
+<129>Jan  1 18:38:58 APADVDETECTOR[3203]: [INV] [00:26:75:BC:F2:DB] [ Singtel7002(5G)-F2D9 ] [   5200 MHz (Channel 40) ] [ -79 dBm ] [ 100 ] [ 8 ]
+<129>Jan  1 18:38:58 APADVDETECTOR[3203]: [INV] [00:26:75:C3:05:19] [   SINGTEL(5G)-0517 ] [   5200 MHz (Channel 40) ] [ -89 dBm ] [ 100 ] [ 7 ]
+<129>Jan  1 18:38:58 APADVDETECTOR[3203]: [INV] [00:26:75:F7:DC:58] [        SVKT-MC(5G) ] [   5200 MHz (Channel 40) ] [ -80 dBm ] [ 100 ] [ 7 ]
+<129>Jan  1 18:38:58 APADVDETECTOR[3203]: [INV] [D8:C7:C8:A4:1B:29] [                WBL ] [   5200 MHz (Channel 40) ] [ -89 dBm ] [ 100 ] [ 1 ]
+<129>Jan  1 18:38:58 APADVDETECTOR[3203]: [INV] [E0:8E:3C:1F:21:A8] [   SINGTEL(5G)-21A2 ] [   5220 MHz (Channel 44) ] [ -87 dBm ] [ 100 ] [ 18 ]
+<129>Jan  1 18:38:58 APADVDETECTOR[3203]: [VAL] [EC:E5:55:FF:E4:35] [          WLC_TEST4 ] [  5745 MHz (Channel 149) ] [ -44 dBm ] [ 100 ] [ 18 ]
+<129>Jan  1 18:38:58 APADVDETECTOR[3203]: [INV] [A8:BD:27:97:E2:90] [                    ] [  5500 MHz (Channel 100) ] [ -86 dBm ] [ 100 ] [ 18 ]
+<129>Jan  1 18:38:58 APADVDETECTOR[3203]: [INV] [A8:BD:27:2D:C5:50] [                    ] [  5580 MHz (Channel 116) ] [ -79 dBm ] [ 100 ] [ 18 ]
+<129>Jan  1 18:38:58 APADVDETECTOR[3203]: [INV] [D8:C7:C8:A3:2F:58] [          WBL_GUEST ] [   5260 MHz (Channel 52) ] [ -78 dBm ] [ 100 ] [ 19 ]
+<129>Jan  1 18:39:01 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=00:06:c7:02:ba:d9 addr3=ff:ff:ff:ff:ff:ff len=87
+<129>Jan  1 18:39:01 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=00:06:c7:02:ba:d9 addr3=ff:ff:ff:ff:ff:ff len=78
+<129>Jan  1 18:39:01 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=00:06:c7:02:ba:d9 addr3=ff:ff:ff:ff:ff:ff len=87
+<129>Jan  1 18:39:01 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=00:06:c7:02:ba:d9 addr3=ff:ff:ff:ff:ff:ff len=78
+<129>Jan  1 18:39:04 WPA_SUPPLICANT[1220]: Client [ec:e5:55:ff:e4:35] WPA authentication completed.
+<129>Jan  1 18:39:04 WPA_SUPPLICANT[1220]: Client [ec:e5:55:ff:e4:35] disconnected. Reason [3].
+<129>Jan  1 18:39:04 WPA_SUPPLICANT[1220]: Client [00:00:00:00:00:00] disconnected. Reason [0].
+<129>Jan  1 18:39:05 APADVDETECTOR[3203]: VALID mac=[EC:E5:55:FF:E4:35] ssid=[WLC_TEST4] freq=[5745 MHz (Channel 149)] secpol=[WPA_VALID]
+<129>Jan  1 18:39:09 APWID[2974]: ALERT! WLAN attack detected. TYPE = 0 NAME = BCASTPROBE APMAC = ff:ff:ff:ff:ff:ff ATTACKERMAC = 00:06:c7:02:b6:8c count = 19
+<129>Jan  1 18:39:09 APWID[2974]: ALERT! WLAN attack detected. TYPE = 0 NAME = BCASTPROBE APMAC = ff:ff:ff:ff:ff:ff ATTACKERMAC = 00:06:c7:02:b6:c5 count = 19
+<129>Jan  1 18:39:09 APWID[2974]: ALERT! WLAN attack detected. TYPE = 0 NAME = BCASTPROBE APMAC = ff:ff:ff:ff:ff:ff ATTACKERMAC = d0:7e:35:a4:b6:0e count = 6
+<129>Jan  1 18:39:09 APWID[2974]: Clearing data...
+<129>Jan  1 18:39:09 APWID[2974]: Switching to channel 149
+<129>Jan  1 18:39:39 APADVDETECTOR[3203]: Starting spectral scan (timeout = 26).
+<129>Jan  1 18:39:47 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=00:06:c7:02:b6:8c addr3=ff:ff:ff:ff:ff:ff len=44
+<129>Jan  1 18:39:48 APSPECTRAL[1505]: Starting spectral scanning.
+<129>Jan  1 18:39:48 APSPECTRAL[1505]: interface   : 
+<129>Jan  1 18:39:48 APSPECTRAL[1505]: device      : 
+<129>Jan  1 18:39:48 APSPECTRAL[1505]: WIFI Detect : 1
+<129>Jan  1 18:39:48 APSPECTRAL[1505]: CW Detect   : 1
+<129>Jan  1 18:39:48 APSPECTRAL[1505]: MWO Detect  : 1
+<129>Jan  1 18:39:48 APSPECTRAL[1505]: FHSS Detect : 1
+<129>Jan  1 18:39:48 APSPECTRAL[1505]: Load MAX    : 100
+<129>Jan  1 18:39:48 APSPECTRAL[1505]: Load MEDIUM : 80
+<129>Jan  1 18:39:48 APSPECTRAL[1505]: Chan Count  : 2
+<129>Jan  1 18:39:48 APSPECTRAL[1505]: [  0] chan : 44
+<129>Jan  1 18:39:48 APSPECTRAL[1505]: [  1] chan : 149
+<129>Jan  1 18:39:48 APSPECTRAL[1505]: netlink socket init done
+<129>Jan  1 18:39:48 APSPECTRAL[1505]: Switching to new channel = 44
+<129>Jan  1 18:39:49 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=00:06:c7:02:b6:c5 addr3=ff:ff:ff:ff:ff:ff len=44
+<129>Jan  1 18:39:49 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=00:06:c7:02:b6:c5 addr3=ff:ff:ff:ff:ff:ff len=36
+<129>Jan  1 18:39:49 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=00:06:c7:02:b6:8c addr3=ff:ff:ff:ff:ff:ff len=44
+<129>Jan  1 18:39:49 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=00:06:c7:02:b6:c5 addr3=ff:ff:ff:ff:ff:ff len=44
+<129>Jan  1 18:39:49 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=00:06:c7:02:b6:8c addr3=ff:ff:ff:ff:ff:ff len=36
+<129>Jan  1 18:39:49 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=00:06:c7:02:b6:c5 addr3=ff:ff:ff:ff:ff:ff len=36
+<129>Jan  1 18:39:49 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=00:06:c7:02:b6:8c addr3=ff:ff:ff:ff:ff:ff len=44
+<129>Jan  1 18:39:49 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=00:06:c7:02:b6:8c addr3=ff:ff:ff:ff:ff:ff len=36
+<129>Jan  1 18:39:52 APSPECTRAL[1505]: SUMMARY: channel = 44
+<129>Jan  1 18:39:52 APSPECTRAL[1505]:     CW Detected   = 0
+<129>Jan  1 18:39:52 APSPECTRAL[1505]:     FHSS Detected = 0
+<129>Jan  1 18:39:52 APSPECTRAL[1505]:     WIFI Detected = 0
+<129>Jan  1 18:39:52 APSPECTRAL[1505]:     MWO Detected  = 0
+<129>Jan  1 18:39:52 APSPECTRAL[1505]:     Channel Load  = 0
+<129>Jan  1 18:39:52 APSPECTRAL[1505]: Switching to new channel = 149
+<129>Jan  1 18:39:53 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=00:06:c7:02:b6:c5 addr3=ff:ff:ff:ff:ff:ff len=36
+<129>Jan  1 18:39:56 APSPECTRAL[1505]: SUMMARY: channel = 149
+<129>Jan  1 18:39:56 APSPECTRAL[1505]:     CW Detected   = 0
+<129>Jan  1 18:39:56 APSPECTRAL[1505]:     FHSS Detected = 0
+<129>Jan  1 18:39:56 APSPECTRAL[1505]:     WIFI Detected = 18
+<129>Jan  1 18:39:56 APSPECTRAL[1505]:     MWO Detected  = 0
+<129>Jan  1 18:39:56 APSPECTRAL[1505]:     Channel Load  = 18
+<129>Jan  1 18:39:56 APSPECTRAL[1505]: WARNING! WIFI Interference detected at channel 149 ( 5745MHz ) ( RSSI 37 NF -89 LOAD 18 )
+<129>Jan  1 18:40:02 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=d0:7e:35:a4:b6:0e addr3=ff:ff:ff:ff:ff:ff len=82
+<129>Jan  1 18:40:02 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=d0:7e:35:a4:b6:0e addr3=ff:ff:ff:ff:ff:ff len=96
+<129>Jan  1 18:40:02 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=d0:7e:35:a4:b6:0e addr3=ff:ff:ff:ff:ff:ff len=82
+<129>Jan  1 18:40:03 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=d0:7e:35:a4:b6:0e addr3=ff:ff:ff:ff:ff:ff len=82
+<129>Jan  1 18:40:03 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=d0:7e:35:a4:b6:0e addr3=ff:ff:ff:ff:ff:ff len=96
+<129>Jan  1 18:40:03 APWID[2974]: DEBUG: type=MGMT sub=PROBE_REQ addr1=ff:ff:ff:ff:ff:ff addr2=d0:7e:35:a4:b6:0e addr3=ff:ff:ff:ff:ff:ff len=82
+<129>Jan  1 18:40:09 APWID[2974]: ALERT! WLAN attack detected. TYPE = 0 NAME = BCASTPROBE APMAC = ff:ff:ff:ff:ff:ff ATTACKERMAC = 00:06:c7:02:b6:8c count = 5
+<129>Jan  1 18:40:09 APWID[2974]: ALERT! WLAN attack detected. TYPE = 0 NAME = BCASTPROBE APMAC = ff:ff:ff:ff:ff:ff ATTACKERMAC = 00:06:c7:02:b6:c5 count = 5
+<129>Jan  1 18:40:09 APWID[2974]: ALERT! WLAN attack detected. TYPE = 0 NAME = BCASTPROBE APMAC = ff:ff:ff:ff:ff:ff ATTACKERMAC = d0:7e:35:a4:b6:0e count = 6
+<129>Jan  1 18:40:09 APWID[2974]: Clearing data...
+<129>Jan  1 18:40:09 APWID[2974]: Switching to channel 149
